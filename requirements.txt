@@ -1,5 +1,4 @@
 - @ file:///C:/ci/watchdog_1593447437088/work
--watchdog @ file:///C:/ci/watchdog_1593447437088/work
 -blib @ file:///tmp/build/80754af9/joblib_1601912903842/work
 -egex @ file:///C:/ci/regex_1602770567298/work
 -mpy @ file:///C:/ci/numpy_and_numpy_base_1603466732592/work
