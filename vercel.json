@@ -10,6 +10,10 @@
     {
       "src": "/predict",
       "dest": "/app 1.py"
+    },
+    {
+      "src": "/static/(.*)",
+      "dest": "/static/$1"
     }
   ]
 }
